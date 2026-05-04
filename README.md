@@ -14,11 +14,13 @@
 2. **EDA:** Анализ выручки и географии продаж.
  <img width="553" height="455" alt="image" src="https://github.com/user-attachments/assets/d1e6910d-cec4-41f7-88e7-1e521678a93c" />
 
-4. **Cohort Analysis:** Расчет Retention Rate по месяцам.
+3. **Cohort Analysis:** Расчет Retention Rate по месяцам.
 <img width="1121" height="881" alt="image" src="https://github.com/user-attachments/assets/4a04f9e1-7c48-43a3-bd72-9b7f82a9c2d2" />
 
-6. **RFM Segmentation:** Классификация клиентов по давности, частоте и сумме покупок.
-7. **BI Dashboard:** Создание интерактивной витрины данных.
+4. **RFM Segmentation:** Классификация клиентов по давности, частоте и сумме покупок.
+<img width="1260" height="839" alt="image" src="https://github.com/user-attachments/assets/43a53222-7258-4dcf-9f4d-68f5c4705819" />
+
+5. **BI Dashboard:** Создание интерактивной витрины данных.
 
 ## 📊 Результаты
 * Выявлено ядро лояльных клиентов (VIP), приносящее более 50% выручки.
